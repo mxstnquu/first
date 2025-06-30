@@ -1,0 +1,2 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+sdv-id-REEpbp,Male,0,Yes,No,3,Yes,No,No,No,No internet service,No,No,Yes,No internet service,Month-to-month,No,Electronic check,18.58,1.02,No
